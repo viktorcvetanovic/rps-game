@@ -1,4 +1,4 @@
-package org.newsmanager;
+package org.rpsgame;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
