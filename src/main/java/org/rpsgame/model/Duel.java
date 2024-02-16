@@ -7,4 +7,5 @@ public class Duel {
     private Player playerTwo;
     private HandType playerOneChoice;
     private HandType playerTwoChoice;
+    private Player winner;
 }

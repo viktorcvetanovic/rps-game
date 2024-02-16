@@ -1,4 +1,6 @@
 package org.rpsgame.controller.impl;
 
-public class GameControllerImpl {
+import org.rpsgame.controller.GameController;
+
+public class GameControllerImpl implements GameController {
 }
